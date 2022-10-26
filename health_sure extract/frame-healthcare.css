@@ -1,0 +1,1045 @@
+/* screen - frame-healthcare */
+
+.frame-healthcare {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 2004px;
+  width: 1303px;
+}
+
+.frame-healthcare .overlap-group11 {
+  align-items: center;
+  background-color: var(--aqua-squeeze);
+  display: flex;
+  flex-direction: column;
+  min-height: 2004px;
+  width: 1300px;
+}
+
+.frame-healthcare .navigation {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--black-squeeze);
+  border: 1px none;
+  display: flex;
+  height: 124px;
+  padding: 31px 72px;
+  width: 1284px;
+}
+
+.frame-healthcare .overlap-group4 {
+  align-items: center;
+  display: flex;
+  height: 54px;
+  margin-bottom: 2.0px;
+  margin-left: 28px;
+  min-width: 202px;
+}
+
+.frame-healthcare .healthcare {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 40px;
+  width: 202px;
+}
+
+.frame-healthcare .details {
+  align-items: center;
+  display: flex;
+  height: 54px;
+  margin-bottom: 2.0px;
+  min-width: 520px;
+  padding: 5.8px 18px;
+}
+
+.frame-healthcare .discover-container {
+  height: 19px;
+  margin-top: 11.0px;
+  position: relative;
+  width: 90px;
+}
+
+.frame-healthcare .discover {
+  border: 1px none;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.frame-healthcare .discover-1 {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.frame-healthcare .overlap-group3 {
+  align-self: flex-end;
+  height: 28px;
+  margin-left: 16px;
+  position: relative;
+  width: 192px;
+}
+
+.frame-healthcare .services-container {
+  height: 27px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 88px;
+}
+
+.frame-healthcare .services {
+  border: 1px none;
+  height: 27px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.frame-healthcare .services-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 80px;
+}
+
+.frame-healthcare .about-us {
+  align-items: flex-start;
+  display: flex;
+  gap: 4728px;
+  height: 27px;
+  left: 0;
+  min-width: 108px;
+  position: absolute;
+  top: 1px;
+}
+
+.frame-healthcare .about-us-1 {
+  height: 27px;
+  margin-left: -4808px;
+  margin-top: -1628px;
+  width: 80px;
+}
+
+.frame-healthcare .about-us-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1.75px;
+  width: 80px;
+}
+
+.frame-healthcare .feedback-container {
+  height: 22px;
+  margin-left: 12px;
+  margin-top: 8.25px;
+  position: relative;
+  width: 135px;
+}
+
+.frame-healthcare .feedback {
+  background-color: var(--snow-drift);
+  border: 1px none;
+  height: 18px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.frame-healthcare .feedback-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}
+
+.frame-healthcare .overlap-group5 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--black-squeeze);
+  box-shadow: 4px 5px 4px #00000040;
+  display: flex;
+  gap: 34px;
+  height: 54px;
+  justify-content: flex-end;
+  margin-left: 90px;
+  min-width: 300px;
+  padding: 6.8px 33.6px;
+}
+
+.frame-healthcare .login {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 62px;
+  transition: all 0.2s ease;
+}
+
+.frame-healthcare .login:hover {
+  transform: scale(1.1);
+}
+
+.frame-healthcare .group-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  min-width: 132px;
+  transition: all 0.2s ease;
+}
+
+.frame-healthcare .group-1:hover {
+  transform: scale(1.2);
+}
+
+.frame-healthcare .overlap-group {
+  align-items: flex-end;
+  background-color: var(--java2);
+  border-radius: 10px;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  min-width: 130px;
+  padding: 9.2px 25.8px;
+}
+
+.frame-healthcare .book-now {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 78px;
+}
+
+.frame-healthcare .overlap-group12 {
+  align-self: flex-end;
+  height: 776px;
+  margin-right: 16.0px;
+  margin-top: 12px;
+  position: relative;
+  width: 1184px;
+}
+
+.frame-healthcare .family-healthcare-solution {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 172px;
+}
+
+.frame-healthcare .our-partner-appolo-hospitals {
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 731px;
+  width: 776px;
+}
+
+.frame-healthcare .overlap-group10 {
+  height: 732px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1184px;
+}
+
+.frame-healthcare .title {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 534px;
+}
+
+.frame-healthcare .our-platform-helps-y {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 243px;
+}
+
+.frame-healthcare .overlap-group9 {
+  height: 726px;
+  left: 3px;
+  position: absolute;
+  top: 6px;
+  width: 1181px;
+}
+
+.frame-healthcare .doctor-1 {
+  height: 726px;
+  left: 614px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 567px;
+}
+
+.frame-healthcare .overlap-group1 {
+  height: 226px;
+  left: 0;
+  position: absolute;
+  top: 474px;
+  width: 867px;
+}
+
+.frame-healthcare .appoinment {
+  background-color: var(--catskill-white);
+  border: 3px solid;
+  border-color: var(--caribbean-green);
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 867px;
+}
+
+.frame-healthcare .make-an-appoinment {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 61px;
+  left: 617px;
+  min-width: 236px;
+  position: absolute;
+  top: 16px;
+  transition: all 0.5s ease-out;
+}
+
+.frame-healthcare .make-an-appoinment:hover {
+  transform: scale(1.1);
+}
+
+.frame-healthcare .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--java-22);
+  border-radius: 10px;
+  display: flex;
+  height: 61px;
+  justify-content: flex-end;
+  min-width: 234px;
+  padding: 0 6.0px;
+}
+
+.frame-healthcare .make-an-appoinment-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 0;
+  min-height: 44px;
+  width: 211px;
+}
+
+.frame-healthcare .dropdown-component-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 211px;
+  left: 174px;
+  position: absolute;
+  top: 15px;
+  width: 167px;
+}
+
+.frame-healthcare .listbox-component {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 175px;
+  width: 167px;
+}
+
+.frame-healthcare .list-box-title {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 12px;
+  margin-right: 0;
+  min-width: 152px;
+}
+
+.frame-healthcare .occupation {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -4.31px;
+  margin-left: -5px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+
+.frame-healthcare .list-container {
+  height: 158px;
+  position: relative;
+  width: 167px;
+}
+
+.frame-healthcare .list-box-main {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 4px 14px #0000001a;
+  display: flex;
+  gap: 25px;
+  height: 36px;
+  left: 8px;
+  min-width: 152px;
+  padding: 12.1px 8.7px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-healthcare .placeholder-text {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 12px;
+  min-width: 100px;
+}
+
+.frame-healthcare .select {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 15px;
+}
+
+.frame-healthcare .chevron {
+  height: 4px;
+  margin-top: 0.61px;
+  width: 7px;
+}
+
+.frame-healthcare .clip-list {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 158px;
+  left: 0;
+  padding: 68px 7.6px;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.frame-healthcare .dropdown-list-2 {
+  align-items: center;
+  border: 1px none;
+  border-radius: 8px;
+  box-shadow: 0px 4px 14px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: 1px;
+  justify-content: center;
+  overflow: hidden;
+  width: 152px;
+}
+
+.frame-healthcare .item-1 {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px none;
+  height: 44px;
+  margin-top: -89.00px;
+  min-width: 151.82px;
+  position: relative;
+}
+
+.frame-healthcare .x1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.frame-healthcare .item-2 {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px none;
+  height: 44px;
+  margin-top: -44.00px;
+  min-width: 151.82px;
+  position: relative;
+}
+
+.frame-healthcare .x2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.frame-healthcare .item {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px none;
+  height: 44px;
+  min-width: 151.82px;
+  position: relative;
+}
+
+.frame-healthcare .x3 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.frame-healthcare .x4 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.frame-healthcare .dropdown-services {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 211px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 167px;
+}
+
+.frame-healthcare .location {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6.89px;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.frame-healthcare .dropdown-list-1 {
+  align-items: center;
+  border: 1px none;
+  border-radius: 8px;
+  box-shadow: 0px 4px 14px #0000001a;
+  display: flex;
+  flex-direction: column;
+  height: 1px;
+  justify-content: center;
+  overflow: hidden;
+  width: 152px;
+}
+
+.frame-healthcare .item-11 {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px none;
+  height: 44px;
+  margin-top: -87.50px;
+  min-width: 151.82px;
+  position: relative;
+}
+
+.frame-healthcare .x1-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.frame-healthcare .item-21 {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px none;
+  height: 44px;
+  margin-top: -43.50px;
+  min-width: 151.82px;
+  position: relative;
+}
+
+.frame-healthcare .x2-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.frame-healthcare .x3-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.frame-healthcare .item-41 {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px none;
+  height: 44px;
+  min-width: 151.82px;
+  overflow: hidden;
+  position: relative;
+}
+
+.frame-healthcare .x4-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.frame-healthcare .group-container {
+  align-items: center;
+  background-color: var(--catskill-white);
+  box-shadow: 0px 5px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: 16.0px;
+  margin-top: 88px;
+  min-height: 311px;
+  padding: 16px 0;
+  width: 982px;
+}
+
+.frame-healthcare .overlap-group1-1 {
+  height: 213px;
+  margin-top: 5px;
+  position: relative;
+  width: 662px;
+}
+
+.frame-healthcare .healthsure-is-a-one {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  width: 662px;
+}
+
+.frame-healthcare .we-provide-the-best {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 658px;
+}
+
+.frame-healthcare .group-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 6.06px;
+  min-width: 156px;
+  transition: all 0.2s ease;
+}
+
+.frame-healthcare .group-2:hover {
+  transform: scale(1.1);
+}
+
+.frame-healthcare .overlap-group-2 {
+  height: 51px;
+  position: relative;
+  width: 154px;
+}
+
+.frame-healthcare .rectangle-10 {
+  border: 3px solid;
+  border-color: var(--puerto-rico);
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.frame-healthcare .know-more {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  width: 144px;
+}
+
+.frame-healthcare .opening-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 31.0px;
+  margin-top: 29px;
+  min-height: 624px;
+  width: 1093px;
+}
+
+.frame-healthcare .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  height: 357px;
+  margin-right: -4.0px;
+  min-width: 1097px;
+}
+
+.frame-healthcare .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--catskill-white-2);
+  box-shadow: 0px 10px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  min-height: 321px;
+  padding: 20px 0;
+  width: 539px;
+}
+
+.frame-healthcare .medical-services-and {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 21px;
+  min-height: 88px;
+  width: 539px;
+}
+
+.frame-healthcare .with-the-help-of-the {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0;
+  min-height: 140px;
+  width: 469px;
+}
+
+.frame-healthcare .card-container {
+  align-self: flex-end;
+  height: 267px;
+  position: relative;
+  width: 539px;
+}
+
+.frame-healthcare .ology-card {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 267px;
+  left: 268px;
+  min-width: 271px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.frame-healthcare .ology-card:hover {
+  transform: scale(1.1);
+}
+
+.frame-healthcare .overlap-group4-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  min-height: 267px;
+  padding: 23.3px 6.7px;
+  width: 267px;
+}
+
+.frame-healthcare .dermo-1 {
+  height: 42px;
+  margin-left: 13.33px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.frame-healthcare .overlap-group-4 {
+  height: 143px;
+  position: relative;
+  width: 179px;
+}
+
+.frame-healthcare .dermotology {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.frame-healthcare .treat-skin-problem-i {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 178px;
+}
+
+.frame-healthcare .arrow {
+  cursor: pointer;
+  height: 33px;
+  left: 17px;
+  position: absolute;
+  top: 110px;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.frame-healthcare .arrow:hover {
+  transform: scale(1.3);
+}
+
+.frame-healthcare .x-card {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 267px;
+  left: 0;
+  min-width: 271px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.frame-healthcare .x-card:hover {
+  transform: scale(1.1);
+}
+
+.frame-healthcare .overlap-group5-1 {
+  align-items: flex-start;
+  background-color: var(--black-squeeze-2);
+  display: flex;
+  flex-direction: column;
+  min-height: 267px;
+  padding: 31.3px 6.7px;
+  width: 267px;
+}
+
+.frame-healthcare .primary-2 {
+  height: 42px;
+  margin-left: 13.33px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.frame-healthcare .primary-care {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 26px;
+  min-height: 23px;
+  opacity: 0.8;
+  width: 174px;
+}
+
+.frame-healthcare .first-core-of-care-f {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 27px;
+  min-height: 25px;
+  width: 195px;
+}
+
+.frame-healthcare .arrow-1 {
+  height: 23px;
+  margin-left: 16.67px;
+  margin-top: 35px;
+  width: 23px;
+}
+
+.frame-healthcare .ology-card-container {
+  height: 267px;
+  margin-right: -3.66px;
+  position: relative;
+  width: 807px;
+}
+
+.frame-healthcare .pulmology-card {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 267px;
+  left: 536px;
+  min-width: 271px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.frame-healthcare .pulmology-card:hover {
+  transform: scale(1.1);
+}
+
+.frame-healthcare .overlap-group1-2 {
+  height: 267px;
+  position: relative;
+  width: 267px;
+}
+
+.frame-healthcare .rectangle-5 {
+  background-color: var(--black-squeeze-3);
+  border: 1px none;
+  cursor: pointer;
+  height: 267px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 267px;
+}
+
+.frame-healthcare .rectangle-5:hover {
+  transform: scale(1.1);
+}
+
+.frame-healthcare .pulmology {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  top: 100px;
+  width: 145px;
+}
+
+.frame-healthcare .pulmo-1 {
+  height: 42px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 42px;
+}
+
+.frame-healthcare .treat-lung-problems {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 150px;
+  width: 189px;
+}
+
+.frame-healthcare .arrow-5 {
+  cursor: pointer;
+  height: 33px;
+  left: 23px;
+  position: absolute;
+  top: 210px;
+  transition: all 0.2s ease;
+  width: 33px;
+}
+
+.frame-healthcare .arrow-5:hover {
+  transform: scale(1.3);
+}
+
+.frame-healthcare .overlap-group2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 267px;
+  padding: 23.3px 6.7px;
+  width: 267px;
+}
+
+.frame-healthcare .cardiology-1 {
+  height: 42px;
+  margin-left: 13.33px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.frame-healthcare .overlap-group-5 {
+  height: 143px;
+  position: relative;
+  width: 192px;
+}
+
+.frame-healthcare .cardiology {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.frame-healthcare .treat-heart-problems {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 192px;
+}
+
+.frame-healthcare .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: var(--black-squeeze-4);
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  min-height: 267px;
+  padding: 23.3px 6.7px;
+  width: 267px;
+}
+
+.frame-healthcare .neuro-1 {
+  height: 42px;
+  margin-left: 10.0px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.frame-healthcare .overlap-group-6 {
+  height: 143px;
+  position: relative;
+  width: 199px;
+}
+
+.frame-healthcare .neurology {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.frame-healthcare .treat-neural-problem {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 199px;
+}
